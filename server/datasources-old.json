@@ -1,0 +1,22 @@
+{
+  "mysqlDS": {
+    "host": "demo.strongloop.com",
+    "port": 3306,
+    "url": "",
+    "database": "loopback_test",
+    "password": "",
+    "name": "mysqlDS",
+    "user": "demo",
+    "connector": "mysql"
+  },
+  "mysqlDs": {
+    "host": "localhost",
+    "port": 3307,
+    "url": "",
+    "database": "loopback_test",
+    "password": "''",
+    "name": "mysqlDs",
+    "user": "root",
+    "connector": "mysql"
+  }
+}

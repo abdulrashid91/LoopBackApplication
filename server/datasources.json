@@ -1,0 +1,12 @@
+{
+  "mysqlDs": {
+    "host": "localhost",
+    "port": 3307,
+    "url": "",
+    "database": "loopback_test",
+    "password": "",
+    "name": "mysqlDs",
+    "user": "root",
+    "connector": "mysql"
+  }
+}
