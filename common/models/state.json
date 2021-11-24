@@ -24,7 +24,16 @@
     }
   },
   "validations": [],
-  "relations": {},
+  "relations": {
+    "country": {
+      "type": "belongsTo",
+      "model": "country",
+      "foreignKey": "",
+      "options": {
+        "nestRemoting": true
+      }
+    }
+  },
   "acls": [],
   "methods": {}
 }
