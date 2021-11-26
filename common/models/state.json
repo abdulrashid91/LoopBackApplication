@@ -25,7 +25,7 @@
   },
   "validations": [],
   "relations": {
-    "country": {
+    "id_country": {
       "type": "belongsTo",
       "model": "country",
       "foreignKey": "",
