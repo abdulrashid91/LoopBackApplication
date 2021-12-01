@@ -8,5 +8,11 @@
     "name": "mysqlDs",
     "user": "root",
     "connector": "mysql"
+  },
+  "myStorageDataSource": {
+    "name": "myStorageDataSource",
+    "connector": "loopback-component-storage",
+    "provider": "filesystem",
+    "root": "./server/storage"
   }
 }
