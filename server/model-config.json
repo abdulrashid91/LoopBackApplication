@@ -24,9 +24,5 @@
   "state": {
     "dataSource": "mysqlDs",
     "public": true
-  },
-  "container": {
-    "dataSource": "myStorageDataSource",
-    "public": true
   }
 }

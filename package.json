@@ -19,8 +19,14 @@
     "loopback-boot": "^2.6.5",
     "loopback-component-explorer": "^6.2.0",
     "loopback-component-storage": "^3.7.0",
+    "loopback-connector-mongodb": "^4.2.0",
     "loopback-connector-mysql": "^5.4.4",
+    "moment": "^2.24.0",
+    "moment-timezone": "^0.5.34",
+    "node-schedule": "^2.1.0",
+    "react-scripts-ts": "^3.1.0",
     "serve-favicon": "^2.0.1",
+    "stripe": "^8.191.0",
     "strong-error-handler": "^4.0.0"
   },
   "devDependencies": {
